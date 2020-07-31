@@ -18,6 +18,7 @@ margin-right: 10px;
 
 a:hover, a:active {
   background-color: #E6B54A;
+  border: 2px solid #ffffff;
 }
 .wrapper {
     max-width: 1084px;
