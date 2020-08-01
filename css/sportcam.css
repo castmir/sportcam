@@ -21,7 +21,7 @@ a:hover, a:active {
   background-color: #4d4d4d;
 }
 .wrapper {
-    max-width: 1084px;
+    max-width: 100%;
     padding: 0;
     margin: 0 auto;
 }
