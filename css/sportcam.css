@@ -3,7 +3,7 @@
 body {
     font-family: 'Zilla Slab';font-size: 22px;
 }
-div.a:link, a:visited {
+boton.a:link, boton.a:visited {
 background-color: #333333;
 color: white;
 border: 2px solid #808080;
@@ -17,7 +17,7 @@ margin-left: 10px;
 margin-bottom: 5px;
 }
 
-div a:hover, a:active {
+boton.a:hover, boton.a:active {
   background-color: #4d4d4d;
 }
 .wrapper {
