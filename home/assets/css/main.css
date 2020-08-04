@@ -2528,7 +2528,7 @@ input, select, textarea {
 		background-attachment: fixed;
 		background-color: #333333;
 		background-image: url("../../images/banner.jpg");
-		background-position: top center;
+		background-position: bottom center;
 		background-repeat: no-repeat;
 		background-size: cover;
 		color: #fff;
