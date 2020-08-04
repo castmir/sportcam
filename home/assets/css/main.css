@@ -2139,7 +2139,7 @@ input, select, textarea {
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		background: none;
 		border: solid 1px;
-		border-radius: 0;
+		border-radius: 20px;
 		color: inherit;
 		cursor: pointer;
 		display: inline-block;
@@ -2170,7 +2170,6 @@ input, select, textarea {
 		.button.primary {
 			background: #ff0000;
 			border-color: #ff0000;
-			border-radius: 5px;
 			color: #fff !important;
 		}
 
