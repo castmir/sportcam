@@ -3031,7 +3031,7 @@ input, select, textarea {
 					}
 
 					#navButton .toggle:after {
-						background: rgba(163, 169, 170, 0.75);
+						background: #333333;
 						border-radius: 2px;
 						content: '';
 						height: 40px;
