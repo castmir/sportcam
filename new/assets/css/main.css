@@ -103,6 +103,7 @@ input, select, textarea {
 		font-family: "Zilla Slab", serif, Roboto, Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 100;
+		letter-spacing: 1em;
 		line-height: 1.75em;
 	}
 
