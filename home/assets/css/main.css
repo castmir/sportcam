@@ -2525,7 +2525,7 @@ input, select, textarea {
 	}
 
 	#banner {
-		background-attachment: scroll, scroll, scroll, fixed;
+		background-attachment: fixed;
 		background-color: #333333;
 		background-image: url("../../images/banner.jpg");
 		background-position: top center;
