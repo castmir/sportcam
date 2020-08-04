@@ -2527,6 +2527,7 @@ input, select, textarea {
 	#banner {
 		background-attachment: scroll, scroll, scroll, fixed;
 		background-color: #333333;
+		background-image: url("../../images/banner.jpg");
 		background-position: bottom left, bottom right, top left, top center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
@@ -2545,8 +2546,8 @@ input, select, textarea {
 			-webkit-animation-fill-mode: forwards;
 			-ms-animation-fill-mode: forwards;
 			animation-fill-mode: forwards;
-			background: #333333;
-			border-radius: 20px;
+			background: ;
+			border-radius: ;
 			color: #fff;
 			display: inline-block;
 			opacity: 0;
