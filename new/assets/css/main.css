@@ -2472,7 +2472,7 @@ input, select, textarea {
 			}
 
 		.icon.major {
-			background: #272833;
+			background: #1a1a1a;
 			border-radius: 100%;
 			cursor: default;
 			display: inline-block;
@@ -2505,7 +2505,7 @@ input, select, textarea {
 				}
 
 				.icon.major.alt:before {
-					color: #272833 !important;
+					color: #1a1a1a !important;
 					text-shadow: 1px 0 0 #ffffff, -1px 0 0 #ffffff, 0 1px 0 #ffffff, 0 -1px 0 #ffffff;
 				}
 
@@ -3145,11 +3145,11 @@ input, select, textarea {
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #333333;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #333333;
 		}
 
 		.spotlight.inactive .content {
@@ -3453,7 +3453,7 @@ input, select, textarea {
 
 	#banner {
 		background-attachment: fixed;
-		background-color: #272833;
+		background-color: #1a1a1a;
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
@@ -3534,7 +3534,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #272833;
+		background: #1a1a1a;
 		padding: 6em 0;
 		text-align: center;
 	}
@@ -3557,7 +3557,7 @@ input, select, textarea {
 			}
 
 			#footer .icons .icon.alt:before {
-				color: #272833 !important;
+				color: #1a1a1a !important;
 				text-shadow: 1px 0 0 rgba(255, 255, 255, 0.5), -1px 0 0 rgba(255, 255, 255, 0.5), 0 1px 0 rgba(255, 255, 255, 0.5), 0 -1px 0 rgba(255, 255, 255, 0.5);
 			}
 
@@ -3889,7 +3889,7 @@ input, select, textarea {
 				top: 0;
 				width: 100%;
 				z-index: 10001;
-				background: #272833;
+				background: #1a1a1a;
 				box-shadow: 0 0.125em 0.125em 0 rgba(0, 0, 0, 0.125);
 			}
 
