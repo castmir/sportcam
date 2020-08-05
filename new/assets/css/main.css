@@ -3355,7 +3355,7 @@ input, select, textarea {
 				-webkit-transform: rotate(45deg);
 				-ms-transform: rotate(45deg);
 				transform: rotate(45deg);
-				background: #272833;
+				background: #333333;
 				content: '';
 				display: block;
 				height: 1em;
