@@ -3473,10 +3473,10 @@ input, select, textarea {
 		}
 
 		#banner:after {
-			background-image: -moz-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(23, 24, 32, 0.65)), url("images/overlay.png");;
-			background-image: -webkit-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(23, 24, 32, 0.65)), url("images/overlay.png");;
-			background-image: -ms-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(23, 24, 32, 0.65)), url("images/overlay.png");;
-			background-image: linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(23, 24, 32, 0.65)), url("images/overlay.png");;
+			background-image: -moz-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.65)), url("images/overlay.png");;
+			background-image: -webkit-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.65)), url("images/overlay.png");;
+			background-image: -ms-linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.65)), url("images/overlay.png");;
+			background-image: linear-gradient(top, rgba(51, 51, 51, 0.95), rgba(51, 51, 51, 0.65)), url("images/overlay.png");;
 			content: '';
 			display: block;
 			height: 100%;
