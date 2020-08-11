@@ -14,6 +14,7 @@
 
 	body {
 		background: #fff;
+		background-color: #333333;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
