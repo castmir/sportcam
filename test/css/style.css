@@ -1116,7 +1116,7 @@
 		background: url(../images/dark_tint.png) center top repeat-x, url(../images/yellow_tint.png) center bottom repeat-x, url(../images/portada.jpg) center center/cover no-repeat;
 		background-color: #333333;
 		color: #ffffff;
-		padding: 9em 0em 9em;
+		padding: 9em 0em 2em;
 		text-align: center;
 	}
 
