@@ -34,7 +34,7 @@
 	body, input, select, textarea {
 		color: #fff;
 		font-family: "Zilla Slab", serif, Helvetica, sans-serif;
-		font-size: 16pt;
+		font-size: 14pt;
 		font-weight: 400;
 		line-height: 1.65em;
 	}
@@ -1326,9 +1326,11 @@
 	}
 
 		.wrapper.style1 {
+		background: url(../images/yellow-ramp-2.svg) center top/2000px 60px  no-repeat, url(../images/yellow-ramp-1.svg) center bottom/2000px 60px  no-repeat;
+		
 			background-color: #262626;
-			border-bottom: 1px solid rgba(144, 144, 144, 0.25);
-			border-top: 1px solid rgba(144, 144, 144, 0.25);
+			border-bottom: 0px solid rgba(144, 144, 144, 0.25);
+			border-top: 0px solid rgba(144, 144, 144, 0.25);
 		}
 
 
