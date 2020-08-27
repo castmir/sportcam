@@ -4,10 +4,24 @@
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
+
+
+		.button.disabled,
+		.button:disabled {
+			padding: 0 0 0 1em;
+			border-radius: 0px;
+			background-color: #404040 !important;
+			border: 0px;
+			color: #fff !important;
+			cursor: default;
+			opacity: 1;
+	}
+
+
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 11pt;
+		font-size: 13pt;
 	}
 
 /* Banner */

@@ -106,22 +106,11 @@
 				<div class="row 150%">
 					<div class="4u 12u$(medium)"><img src="images/recintodeportivo.svg" alt="" style="width:251px;height:53px;"/>
 						<div class="select-wrapper">
+						 <form action="../action/return.html" method="post" id="menuForm" name="menuForm" enctype="application/x-www-form-urlencoded">
 							<select name="Recinto" id="desplegable">
-								<option value="">-- Seleccionar --</option>
-								<option value="">-- La Oliva --</option>
-								<option value="1">Pabellón Municipal Corralejo</option>
-								<option value="1">Vicente Carreño</option>
-								<option value="1">Terrero de Lajares</option>
-								<option value="">-- Puerto del Rosario --</option>
-								<option value="1">Majada Marcial 1</option>
-								<option value="1">Majada Marcial 2</option>
-								<option value="1">Polideportivo Insular</option>
-								<option value="1">Estadio de Los Pozos</option>
-								<option value="1">Pabellón Oasis</option>
-								<option value="1">Terrero Puerto Cabras</option>
-								<option value="1">Terrero de Tetir</option>
-								<option value="">-- Antigua --</option>
-								<option value="1">Terrero de Antigua</option>
+								<option value="" selected="selected">-- Seleccionar --</option>
+								<optgroup label="Puerto del Rosario">
+								<option value="1"><a href="franciscomelian.html">Francisco Melián</a></option>
 							</select>
 						</div>
 					</div>
@@ -147,7 +136,7 @@
 								<option value="">-- Seleccionar --</option>
 								<option value="1"><a href="#">Herbania</a></option>
 								<option value="1"><a href="#">Puerto Cabras</a></option>
-								<option value="1"><a href="#">Favelo</a></option>
+								<option value="1"><a href="#">Fabelo</a></option>
 								<option value="1"> <a href="#">Fuerteventura</a></option>
 								<option value="1"><a href="#">Soria 9</a></option>
 								<option value="1"><a href="#">Peña de la Amistad</a></option>
@@ -161,7 +150,9 @@
 				</div>
 				</div>
 			</section>
-
+			<script>
+				imageArray = new Array("franciscomelian.html", "../images/starRed.gif", "../images/starYel.gif", "../images/starPink.gif"); altArray = new Array("", "Red Star", "Yellow Star", "Pink Star"); function changeTest () { var Index = document.menuForm.select1.options[document.menuForm.select1.selectedIndex].value; document.testStar.src = imageArray[Index]; document.testStar.alt = altArray[Index]; } 
+			</script>
 			<!-- Social -->
 			<section id="one" class="wrapper style4 special">
 				<div class="container">
